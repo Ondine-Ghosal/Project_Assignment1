@@ -8,5 +8,5 @@ def replace_the_symbols(text):
     return result
 
 input_text = input("Say something... and add any symbol you add it will be turned into magic: ")
-output_text = replace_the_symbols(input_text)
-print(output_text)
+output_text1 = replace_the_symbols(input_text)
+print(output_text1)
